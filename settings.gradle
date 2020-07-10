@@ -1,0 +1,3 @@
+include ':BluetoothCommunication'
+include ':app'
+rootProject.name = "AndroidBluetoothChatLibrary"
