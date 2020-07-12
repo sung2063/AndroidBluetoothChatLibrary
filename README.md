@@ -229,3 +229,7 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  ## Contributor 🌟
  
  Sung Hyun Back (@sung2063)
+ 
+ ## Sponsorship
+ 
+ Please sponsor me to my GitHub for contributing more innovative projects and libraries. ❤️
