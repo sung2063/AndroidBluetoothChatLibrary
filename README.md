@@ -224,8 +224,6 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  
  Interested in Bluetooth communication solution? Message me for product consultation.
  
- Sponsor me on GitHub for contributing more innovating Bluetooth projects. ❤️
- 
  ## Contributor 🌟
  
  Sung Hyun Back (@sung2063)
