@@ -235,4 +235,4 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  
  ## License 📝
  
- The code is licensed under the <a href="https://github.com/sung2063/AndroidSliderViewsLibrary/blob/master/LICENSE">GNU General Public License</a>.
+ The code is licensed under the <a href="https://github.com/sung2063/AndroidBluetoothChatLibrary/blob/master/LICENSE">GNU General Public License</a>.
