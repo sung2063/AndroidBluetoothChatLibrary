@@ -5,6 +5,10 @@ This is also a supporting tool for helping people social distancing from COVID-1
 
 [![](https://jitpack.io/v/sung2063/AndroidBluetoothChatLibrary.svg)](https://jitpack.io/#sung2063/AndroidBluetoothChatLibrary)
 
+## 💖 Sponsor
+
+Android Bluetooth Chat updates regularly. Your valuable sponsorship helps me contributing more features and maintaining the library. Support me for building more interesting projects! 💜
+
 ## Sample GIF Image
 
 <center>
