@@ -84,7 +84,7 @@ ServerConnectivity serverConnectivity = new ServerConnectivity(this, eventListen
 ClientConnectivity clientConnectivity = new ClientConnectivity(this, eventListener);      // Create a client object
 ```
 
-## Library APIs
+## 📚 Library APIs
 
 Here are the available library APIs which you can use to develop a Bluetooth chat system.
 
