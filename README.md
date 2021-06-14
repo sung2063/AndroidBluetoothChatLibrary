@@ -14,7 +14,7 @@ Android Bluetooth Chat updates regularly. Your valuable sponsorship helps me con
 <a href="https://www.paypal.com/donate?business=sunghyunb1991%40gmail.com&item_name=GitHub+Open+Source+Project+Sponsorship&currency_code=USD"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </div>
 
-## Sample GIF Image
+## 🎬 Sample GIF Image
 
 <center>
   <table>
