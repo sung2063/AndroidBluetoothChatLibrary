@@ -237,11 +237,6 @@ Here are the available library APIs which you can use to develop a Bluetooth cha
  
  Sung Hyun Back (@sung2063)
  
- ## Sponsorship
- 
- Please sponsor me to my GitHub sponsorship page at https://github.com/sponsors/sung2063.
- Your valueable sponsorship helps me contributing more innovative projects and libraries. ❤️
- 
  ## License 📝
  
  The code is licensed under the <a href="https://github.com/sung2063/AndroidBluetoothChatLibrary/blob/master/LICENSE">GNU General Public License</a>.
