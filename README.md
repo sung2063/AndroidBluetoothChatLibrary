@@ -27,7 +27,7 @@ Android Bluetooth Chat updates regularly. Your valuable sponsorship helps me con
    </table>
  </center>
 
-## How to Use Bluetooth Chat Library
+## 📖 How to Use Bluetooth Chat Library
 
 <b>1. Setup your Android project setting</b>
 
