@@ -1,7 +1,7 @@
 # Android Bluetooth Chat Library
 
-Bluetooth chat library supports tools to communicate between server and client via Bluetooth technology.</br>
-This is also a supporting tool for helping people social distancing from COVID-19 pandamic.
+Bluetooth Chat Library provides tools for communication between a server and client over Bluetooth. 
+It also serves as a supporting tool to help people maintain social distancing during the COVID‑19 pandemic.
 
 [![](https://jitpack.io/v/sung2063/AndroidBluetoothChatLibrary.svg)](https://jitpack.io/#sung2063/AndroidBluetoothChatLibrary)
 
